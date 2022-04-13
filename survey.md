@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: black
+Favorite food: humburger
+Favorite musician/band: kadim saher
+Favorite movie: after
+Requested grade in the course: 100
